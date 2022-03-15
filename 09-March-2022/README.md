@@ -36,6 +36,7 @@ Nothing as of now
 
 - <COURSE NAME - VIDEO NAME> - <STATUS> (COMPLETED / PROGRESS)
 - Comparison Operators in Python - COMPLETED
+- Nothing to study for today
 
 ### Assignment
 
